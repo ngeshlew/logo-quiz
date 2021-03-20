@@ -55,7 +55,7 @@ const Start = ({ onStart }: { onStart: () => void }) => {
             <Logo src={process.env.PUBLIC_URL + `/logo.png`} alt="" />
             <div style={{ height: 20 }} />
             <MessageContainer>
-                <Message style={{ maxWidth: 300 }}>See how well you know your tech company logos</Message>
+                <Message style={{ maxWidth: 300 }}>See how well you know your Kenyan company logos</Message>
                 <div style={{ height: 20 }} />
                 <div style={{ textAlign: 'right' }}><Button onClick={onStart}>Let's go</Button></div>
             </MessageContainer>

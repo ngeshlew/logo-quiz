@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 const correctMessages = ['Nailed it', 'Yup', 'Got it!', 'You rocked that one', 'Nice job', "I'm super impressed"]
-const incorrectMessages = ['Uh... no', 'Sorry, wrong', 'Wrong wrong wrong', 'Nice try (but not that nice)', "Womp womp"]
+const incorrectMessages = ['Uh... no', 'Sorry, wrong', 'Wrong wrong wrong', 'Nice try (but not that nice)', "Manzeee... ☹️"]
 
 const getRandom = (messages: string[]) => {
     const index = Math.floor(Math.random() * messages.length)

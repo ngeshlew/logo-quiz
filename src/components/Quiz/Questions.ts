@@ -1,21 +1,21 @@
 import { Option } from "./Question/types"
 
 const questions = [
-    { name: 'Spotify', answer: Option.A },
-    { name: 'Facebook', answer: Option.A },
-    { name: 'Adobe', answer: Option.B },
-    { name: 'Microsoft', answer: Option.B },
-    { name: 'Amazon', answer: Option.A },
-    { name: 'Apple', answer: Option.A },
-    { name: 'Netflix', answer: Option.B },
-    { name: 'Reddit', answer: Option.B },
-    { name: 'TikTok', answer: Option.B },
-    { name: 'Airbnb', answer: Option.A },
-    { name: 'Twitter', answer: Option.B },
-    { name: 'Robinhood', answer: Option.A },
-    { name: 'Zillow', answer: Option.A },
-    { name: 'iPhone camera', answer: Option.B },
-    { name: 'Google', answer: Option.B },
+    { name: 'Safaricom', answer: Option.A },
+    { name: 'Africas Talking', answer: Option.A },
+    { name: 'Cellulant', answer: Option.B },
+    { name: 'Uchumi', answer: Option.B },
+    { name: 'Kenya Airways', answer: Option.A },
+    { name: 'NCBA', answer: Option.A },
+    { name: 'The Standard', answer: Option.B },
+    { name: 'Asilimia', answer: Option.B },
+    { name: 'Standard Chartered', answer: Option.B },
+    { name: 'Nation Media Group', answer: Option.A },
+    { name: 'Kenya Power', answer: Option.B },
+    { name: 'Serena Hotels', answer: Option.A },
+    { name: 'Bamburi Cement', answer: Option.A },
+    { name: 'Pezesha', answer: Option.B },
+    { name: 'KenGen', answer: Option.B },
 ]
 
 export default questions

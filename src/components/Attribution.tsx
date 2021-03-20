@@ -15,7 +15,7 @@ const Att = styled.a`
 `
 
 const Attribution = () => {
-    return <Att style={{ position: 'fixed', bottom: 0, left: 0 }} href="https://twitter.com/ltm" target="_blank"> by @ltm</Att >
+    return <Att style={{ position: 'fixed', bottom: 0, left: 0 }} href="https://twitter.com/ngeshlew" target="_blank"> by ngeshlew, Inspired by @ltm</Att >
 }
 
 export default Attribution
